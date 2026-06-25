@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Xenonat 👾</h1>
 
 <p align="center">
-  <b>CS Student @ DIT University · Cybersecurity Enthusiast · Full-Stack Dev</b>
+  <b>CS Student · Cybersecurity Analyst · Full-Stack Dev</b>
 </p>
 
 ---
