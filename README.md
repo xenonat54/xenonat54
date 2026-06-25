@@ -1,4 +1,3 @@
-# 💫 About Me:
 <h1 align="center">Hey there, I'm Xenonat 👾</h1>
 
 <p align="center">
